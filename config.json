@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsutringify",
+        "uuid": 16934771,
+        "checksum": "z8awcq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
